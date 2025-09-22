@@ -1,2 +1,4 @@
 user= usr_1
 passwd=passwd_1
+
+payment= payment_23{alice, bob ,bobby}
